@@ -1,4 +1,4 @@
-const Header = () ={
+const Header = () =>{
     return (
         <div className="app-container">
             <Header />
@@ -6,4 +6,4 @@ const Header = () ={
     )
 }
 
-export default App
+export default Header
