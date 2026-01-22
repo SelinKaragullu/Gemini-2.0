@@ -22,6 +22,8 @@ try{ const response = await fetch ()
   const data = await response.json()
 
 }catch(error{
+
+  
 console.log(error)
 throw new Error ("")
 }
